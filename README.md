@@ -1,27 +1,104 @@
-# 💫 About Me:
-👨‍💻 I’m **Yashank Gupta** from **Uttar Pradesh, India**  <br>🌐 I build **Responsive Websites, Dynamic Web Apps, and 3D Web Experiences**  <br>🧠 Strong in **JavaScript (ES6), PHP, MySQL, Three.js, WebGL**  <br>⚡ Exploring **AI Integration** for modern web workflows  <br>📌 Focused on clean UI, performance, and real-world execution
+# Hi, I'm Yashank Gupta 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashank___007_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashank-gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yg421518@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashank024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashank024&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashank024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashank024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashank024&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💻 **Web Developer | 3D Web | AI Integration | Dynamic Systems**  
+📍 Uttar Pradesh, India  
+📩 **Email:** yg421518@gmail.com  
 
 ---
+
+## 💫 About Me
+
+👨‍💻 I’m **Yashank Gupta** from **Uttar Pradesh, India**  
+🌐 I build **Responsive Websites, Dynamic Web Apps, and 3D Web Experiences**  
+🧠 Strong in **JavaScript (ES6), PHP, MySQL, Three.js, WebGL**  
+⚡ Exploring **AI Integration** for modern web workflows  
+📌 Focused on clean UI, performance, and real-world execution  
+
+---
+
+## 🚀 What I'm Doing
+
+🔭 I’m currently working on: **GITZ-GREEN (Renewable Energy Web Systems + Internal Admin Portal)**  
+👯 I’m looking to collaborate on: **Frontend Projects, Dynamic Web Apps, Three.js/WebGL Projects**  
+🤝 I’m looking for help with: **Three.js optimization + WebGL performance improvements**  
+🌱 I’m currently learning: **Advanced WebGL + 3D Rendering + AI API Integration**  
+💬 Ask me about: **HTML, CSS, JavaScript, PHP, MySQL, Three.js, WebGL**  
+⚡ Fun fact: I love building **interactive 3D websites** and **system-based portals**  
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashank___007_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashank-gupta) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yg421518@gmail.com)
+
+---
+
+## 🌟 Live Projects
+
+✅ **GROPTIMA™ — Business Solutions & Project Facilitation Platform**  
+🔗 https://groptima.pages.dev  
+**Tech:** HTML, CSS, JavaScript, Three.js, WebGL  
+
+✅ **EXTEROID — Image & Document to Excel Automation (3D Web)**  
+🔗 https://exteroid.pages.dev  
+**Tech:** JavaScript, Three.js, WebGL, HTML, CSS  
+
+✅ **ZAVIYA — FMCG Brand Website (E-commerce UI)**  
+🔗 https://yashank024.github.io/Zaviya/  
+**Tech:** HTML, CSS, JavaScript, Tailwind CSS  
+
+✅ **GITZ-GREEN — Renewable Energy Company Platform**  
+🔗 https://gitzgreen.energy  
+**UI Demo:** https://yashank024.github.io/Gitz-Green/  
+**Tech:** HTML, CSS, JavaScript (UI), PHP, MySQL, Admin Portal, HRMS Integration  
+
+---
+
+## 💻 Tech Stack (Focused)
+
+### ✅ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ✅ Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ✅ 3D Web
+![Three js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
+### ✅ Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Yashank024&theme=dark&hide_border=false&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yashank024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashank024&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Yashank024&theme=radical&no-frame=false&no-bg=true&margin-w=6)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Yashank024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Updated and optimized by Yashank Gupta -->
